@@ -7,5 +7,4 @@
 	gcc -Wall -Wextra -rdynamic -g main.c -o runePrint `pkg-config --libs --cflags gtk+-3.0` -ldl
 
 ### Synopsis:
-	Rune Writer is build to help its user to translate latin to runic(ancient futhark) alphabet by English phonetics and vice versa.
-	It uses txt file as input and produces output pdf file with translation.
+Rune Writer is build to help its user to translate latin to runic(ancient futhark) alphabet by English phonetics and vice versa. It uses txt file as input and produces output pdf file with translation.
